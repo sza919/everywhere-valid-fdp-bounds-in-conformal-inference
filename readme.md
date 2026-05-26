@@ -1,6 +1,6 @@
 # Everywhere Valid Bounds on False Discovery Proportions in Conformal Inference
 
-> **[Paper link / arXiv — add when available]**
+> **https://arxiv.org/abs/2605.20726**
 
 ## Overview
 
@@ -100,10 +100,10 @@ Given observed p-values `pvals`, returns a function `f : [0,1] → [0,1]` that u
 ## Citation
 
 ```bibtex
-@article{TODO,
-  title   = {Everywhere Valid Bounds on False Discovery Proportions in Conformal Inference},
-  author  = {TODO},
-  year    = {TODO},
-  url     = {TODO}
+@article{song2026everywhere,
+  title={Everywhere Valid Bounds on False Discovery Proportions in Conformal Inference},
+  author={Song, Ziang and Jin, Ying and Cand{\`e}s, Emmanuel J},
+  journal={arXiv preprint arXiv:2605.20726},
+  year={2026}
 }
 ```
